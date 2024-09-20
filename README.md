@@ -10,6 +10,23 @@ The analysis applied advanced **ETL (Extract, Transform, Load)** processes to cl
 
 Using powerful data transformation tools, including **Python**, **SQL**, and **Power BI**, I was able to examine patterns in neighborhood safety, uncover how unverified listings contribute to criminal activity, and explore how human traffic density influences both crime rates and rental prices.
 
-![](https://github.com/AdixPlaysGames/Crime-and-AIRBNB-in-New-York/main/Visual/architecture.png)
+### AIRBNB
+![AIRBNB](https://github.com/AdixPlaysGames/Crime-and-AIRBNB-in-New-York/blob/main/Visual/first.png)
+
+### ARREST
+![ARREST](https://github.com/AdixPlaysGames/Crime-and-AIRBNB-in-New-York/blob/main/Visual/second.png)
+
+### BOTH
+![BOTH](https://github.com/AdixPlaysGames/Crime-and-AIRBNB-in-New-York/blob/main/Visual/third.png)
+
+### DISTRICTS PREVIEW
+![DISTRICTS PREVIEW](https://github.com/AdixPlaysGames/Crime-and-AIRBNB-in-New-York/blob/main/Visual/last.png)
+
+### ERD
+![ERD](https://github.com/AdixPlaysGames/Crime-and-AIRBNB-in-New-York/blob/main/Visual/erd.png)
+
+### ARCHITECTURE
+![ARCHITECTURE](https://github.com/AdixPlaysGames/Crime-and-AIRBNB-in-New-York/blob/main/Visual/architecture.png)
+
 
 Overall, the project demonstrates how data analytics can shed light on complex urban issues, providing valuable insights for decision-makers and the general public alike.
